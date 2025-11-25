@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+p {
+    color: blue;
+}
+section p{
+    color: green;
+}
+section aside p{
+    color: brown;
+}
+.Novedad {
+    background-color: cyan;
+}
+.Novedad.revisar{
+    color: tomato;
+}
+h1,h2,h3{
+    text-decoration: underline;
+    font-style: italic;
+}
